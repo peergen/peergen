@@ -12,9 +12,9 @@ In biomedical terms, Peergen is a system for ***N-of-1 personal -omics at scale,
 
 ![*Promising Genomics* by Mike Fortun](images/promising_genomics.jpg)
 
-![Denis Noble - Downward causation](images/causation1.jpg)
-
 ![Eric Topol](images/topol1.jpg)
+
+![Denis Noble - Downward causation](images/causation1.jpg)
 
 ![](images/pheno1.gif)
 
