@@ -2,7 +2,7 @@
 # Peergen
 
 <blockquote>
- <em>Invert, always invert ('man muss immer umkehren').</em>  
+ <em>Invert, always invert ('man muss immer umkehren').</em><br/>
 - Carl Jacobi, 19th. c. mathematician
 </blockquote>
 
